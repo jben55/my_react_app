@@ -8,6 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           This is my react App! Welcome
+          I am learning React and azure together
         </p>
         <a
           className="App-link"
